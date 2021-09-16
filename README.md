@@ -1,2 +1,2 @@
 # Telemedicina
-Grupo 6 - mintic
+Equipo Alpha Team - Grupo 6 - Mintic
