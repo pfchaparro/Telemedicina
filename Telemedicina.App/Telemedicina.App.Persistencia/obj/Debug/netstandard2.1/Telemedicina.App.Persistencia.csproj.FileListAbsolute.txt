@@ -1,0 +1,12 @@
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.csprojAssemblyReference.cache
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.AssemblyInfoInputs.cache
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.AssemblyInfo.cs
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\bin\Debug\netstandard2.1\Telemedicina.App.Persistencia.deps.json
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\bin\Debug\netstandard2.1\Telemedicina.App.Persistencia.dll
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\bin\Debug\netstandard2.1\Telemedicina.App.Persistencia.pdb
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\bin\Debug\netstandard2.1\Telemedicina.App.Dominio.dll
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\bin\Debug\netstandard2.1\Telemedicina.App.Dominio.pdb
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.csproj.CopyComplete
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.dll
+C:\ConsultaAlternativa\Telemedicina.App\Telemedicina.App.Persistencia\obj\Debug\netstandard2.1\Telemedicina.App.Persistencia.pdb

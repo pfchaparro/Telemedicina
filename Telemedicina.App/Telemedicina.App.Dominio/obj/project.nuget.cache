@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "03/0SiCZVwLjF+WaWQu6GdTdH+kXTC+TGB7nevskK6rsB0iuQgbXpCBzFpoVHEE0erITRx6H9T5m4mQ2xTVRdw==",
+  "success": true,
+  "projectFilePath": "C:\\ConsultaAlternativa\\Telemedicina.App\\Telemedicina.App.Dominio\\Telemedicina.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
