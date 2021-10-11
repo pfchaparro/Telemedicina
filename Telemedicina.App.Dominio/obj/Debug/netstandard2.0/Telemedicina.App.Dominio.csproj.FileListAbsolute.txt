@@ -1,0 +1,9 @@
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\bin\Debug\netstandard2.0\Telemedicina.App.Dominio.deps.json
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\bin\Debug\netstandard2.0\Telemedicina.App.Dominio.dll
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\bin\Debug\netstandard2.0\Telemedicina.App.Dominio.pdb
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.csprojAssemblyReference.cache
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.AssemblyInfoInputs.cache
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.AssemblyInfo.cs
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.dll
+C:\Telemedicina\Telemedicina.App\Telemedicina.App.Dominio\obj\Debug\netstandard2.0\Telemedicina.App.Dominio.pdb
