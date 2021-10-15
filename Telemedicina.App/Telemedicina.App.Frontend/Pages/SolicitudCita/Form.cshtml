@@ -1,0 +1,48 @@
+﻿@page
+@model Telemedicina.App.Frontend.Pages.FormModel
+@{
+}
+<h3>Formulario para solicitud de cita </h3>
+<ul class="list-group">
+  <li class="list-group-item">
+      <div class="mb-3">
+        <label for="formGroupExampleInput" class="form-label"><strong>Paciente</strong></label>
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Documento de idendad">
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Nombre del paciente">
+        <label for="formGroupExampleInput" class="form-label"><strong>Médico</strong></label>
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Especialidad">
+        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Nombre del médico">
+      </div>
+  </li>
+  <li class="list-group-item">
+      <div class="mb-3">
+        <label for="formGroupExampleInput" class="form-label"><strong>Sede</strong></label>
+        <select class="form-select" aria-label="Default select">
+        <option selected>Seleccione sede</option>
+        <option value="1">Pereira</option>
+        <option value="2">Manizales</option>
+        <option value="3">Armenia</option>
+        <option value="4">Medellin</option>
+        </select>
+      </div>
+      <div>
+        <label for="formGroupExampleInput" class="form-label"><strong>Fecha</strong></label>
+        <span class="completo">
+        <input type="date" id="codigopostal" name="codigopostal" value="" />
+        </span>
+      </div>
+  </li>
+  <li class="list-group-item">
+      <label for="formGroupExampleInput" class="form-label"><strong>Costo</strong></label>
+      <input type="text" class="form-control" id="formGroupExampleInput" placeholder="$45.000">
+      <div>
+        <span class="completo">
+            <h6>Por favor verifique su disponibilidad, evítese multas por inasistencia </h6>
+            <small class="text-muted">Recomendaciones</small>
+        </span>
+      </div>
+  </li>
+  <li class="list-group-item">
+      <button type="button" class="btn btn-dark">Solicitar Cita</button>
+  </li>
+</ul>
